@@ -1,25 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Harmandeep Mand's Rails APi for React Native Test Application for My PT Hub.
 
-Things you may want to cover:
+steps ===========
 
-* Ruby version
+clone repo --=> https://github.com/JattCoder/rails_react_test.git
 
-* System dependencies
+Console Commands
 
-* Configuration
+    1. bundle install --=> to install required gems
+    2. rails db:migrate --=> to migrate tables to Database
+    3. rails db:seed --=> to save data to Database
+    4. rails s --=> to start the server
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # rails_react_test
